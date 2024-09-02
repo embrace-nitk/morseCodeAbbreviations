@@ -80,9 +80,13 @@ span.frac > span {
 #copyright {
   position: absolute;
   text-align: center;
-  left: 250px;
+  left: 100px;
   top: 580px;
   font-size: 12px;
+}
+.cp {
+  font-size: 16px;
+  font-weight: 700;
 }
 
 /* css */
